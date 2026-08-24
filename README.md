@@ -53,8 +53,8 @@ Hands-on QA and systems specialist experienced in end-to-end reliability, system
 ### 📱 Embedded, IoT & Mobile Systems
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Toradex-0070B9?style=flat-square&logoColor=white" alt="Toradex" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/ADB-000000?style=flat-square&logo=android&logoColor=white" alt="ADB" />
 </p>
