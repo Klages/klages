@@ -7,12 +7,12 @@ Hands-on QA and systems specialist experienced in end-to-end reliability, system
 ### 📋 QA Operations & Lifecycle Management
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TestRail-006699?style=flat-square&logo=testrail&logoColor=white" alt="TestRail" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white" alt="Sourcetree" />
+  <img src="https://img.shields.io/badge/TestRail-1a1a2e?style=flat-square&logo=testrail&logoColor=white" alt="TestRail" />
+  <img src="https://img.shields.io/badge/Jira-1a1a2e?style=flat-square&logo=jira&logoColor=0052CC" alt="Jira" />
+  <img src="https://img.shields.io/badge/Playwright-1a1a2e?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitLab-1a1a2e?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Sourcetree-1a1a2e?style=flat-square&logo=sourcetree&logoColor=white" alt="Sourcetree" />
 </p>
 
 * **Quality Assurance & Automation:** Designing structured test plans, regression suites, automated E2E testing via Playwright, and defect tracking using TestRail and Jira.
@@ -23,12 +23,12 @@ Hands-on QA and systems specialist experienced in end-to-end reliability, system
 ### 🖥️ Enterprise Systems, Virtualization & OS
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Hyper-V" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/Windows_Server-1a1a2e?style=flat-square&logo=windows&logoColor=0078D6" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/PowerShell-1a1a2e?style=flat-square&logo=powershell&logoColor=5391FE" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Hyper--V-1a1a2e?style=flat-square&logo=windows&logoColor=0078D4" alt="Hyper-V" />
+  <img src="https://img.shields.io/badge/VMware-1a1a2e?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
 
 * **Enterprise Infrastructure:** Windows Server configuration, Active Directory setups, PowerShell automation, and Linux host administration.
@@ -39,13 +39,13 @@ Hands-on QA and systems specialist experienced in end-to-end reliability, system
 ### 🌐 Networking, Telematics & Infrastructure
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
-  <img src="https://img.shields.io/badge/Ubiquiti_UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" alt="UniFi" />
-  <img src="https://img.shields.io/badge/RIPE_Atlas-003366?style=flat-square&logo=ripe&logoColor=white" alt="RIPE Atlas" />
-  <img src="https://img.shields.io/badge/Nmap-002B49?style=flat-square&logo=freebsd&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white" alt="OpenVPN" />
-  <img src="https://img.shields.io/badge/SSH-000000?style=flat-square&logo=gnubash&logoColor=white" alt="SSH" />
+  <img src="https://img.shields.io/badge/MQTT-1a1a2e?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Wireshark-1a1a2e?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-1a1a2e?style=flat-square&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Ubiquiti_UniFi-1a1a2e?style=flat-square&logo=ubiquiti&logoColor=0559C9" alt="UniFi" />
+  <img src="https://img.shields.io/badge/OpenVPN-1a1a2e?style=flat-square&logo=openvpn&logoColor=EA7E20" alt="OpenVPN" />
+  <img src="https://img.shields.io/badge/SSH-1a1a2e?style=flat-square&logo=openssh&logoColor=4EAA25" alt="SSH" />
+  <img src="https://img.shields.io/badge/RIPE_Atlas-1a1a2e?style=flat-square&logo=ripe&logoColor=white" alt="RIPE Atlas" />
 </p>
 
 * **Telematics & IoT Transport:** Edge-to-cloud telemetry pipelines leveraging MQTT and LoRaWAN, remote sensor data routing, and protocol validation.
@@ -57,12 +57,12 @@ Hands-on QA and systems specialist experienced in end-to-end reliability, system
 ### 📱 Embedded, IoT & Mobile Systems
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Toradex-0070B9?style=flat-square&logoColor=white" alt="Toradex" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/ADB-000000?style=flat-square&logo=android&logoColor=white" alt="ADB" />
+  <img src="https://img.shields.io/badge/Toradex-1a1a2e?style=flat-square&logoColor=white" alt="Toradex" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-1a1a2e?style=flat-square&logo=raspberrypi&logoColor=C51A4A" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/ESP32-1a1a2e?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Arduino-1a1a2e?style=flat-square&logo=arduino&logoColor=00979D" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Android-1a1a2e?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" />
+  <img src="https://img.shields.io/badge/ADB-1a1a2e?style=flat-square&logo=android&logoColor=3DDC84" alt="ADB" />
 </p>
 
 * **Hardware & Edge Compute:** Validating Toradex modules, ESP32, and Arduino platforms. Orchestrating headless Raspberry Pi test environments, flashing bare-metal firmware, and conducting serial/UART triage.
@@ -74,12 +74,12 @@ Hands-on QA and systems specialist experienced in end-to-end reliability, system
 ### 🤖 Automation, Tooling & Local AI
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Web_Hosting-6C757D?style=flat-square&logo=serverfault&logoColor=white" alt="Web Hosting" />
+  <img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Lua-1a1a2e?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Ollama-1a1a2e?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Claude-1a1a2e?style=flat-square&logo=anthropic&logoColor=D97706" alt="Claude" />
+  <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Web_Hosting-1a1a2e?style=flat-square&logo=cloudflare&logoColor=white" alt="Web Hosting" />
 </p>
 
 * **Scripting & Utilities:** Automation routines, test payload generators, and operational scripts in Python and Lua.
@@ -92,8 +92,8 @@ Hands-on QA and systems specialist experienced in end-to-end reliability, system
 ### 🛠️ CAD, Prototyping & Physical Fabrication
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Autodesk_Fusion-FF6A00?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Fusion" />
-  <img src="https://img.shields.io/badge/3D_Printing-41454A?style=flat-square&logo=ultimaker&logoColor=white" alt="3D Printing" />
+  <img src="https://img.shields.io/badge/Autodesk_Fusion-1a1a2e?style=flat-square&logo=autodesk&logoColor=FF6A00" alt="Autodesk Fusion" />
+  <img src="https://img.shields.io/badge/3D_Printing-1a1a2e?style=flat-square&logo=ultimaker&logoColor=white" alt="3D Printing" />
 </p>
 
 * **Parametric Design:** Custom enclosure modeling, component mountings, and mechanical test fixtures using Autodesk Fusion.
