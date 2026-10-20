@@ -12,7 +12,6 @@ Hands-on QA and systems specialist experienced in end-to-end reliability, system
   <img src="https://img.shields.io/badge/Playwright-1a1a2e?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright" />
   <img src="https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitLab-1a1a2e?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Sourcetree-1a1a2e?style=flat-square&logo=sourcetree&logoColor=white" alt="Sourcetree" />
 </p>
 
 * **Quality Assurance & Automation:** Designing structured test plans, regression suites, automated E2E testing via Playwright, and defect tracking using TestRail and Jira.
